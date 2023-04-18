@@ -1,0 +1,8 @@
+{
+    "frases":[
+        { "id":1, "frase":"fraase 1" },
+        { "id":2, "frase":"frase 2" },
+        { "id":2, "frase":"frase 3" },
+        { "id":2, "frase":"frase 4" }
+    ]
+}
